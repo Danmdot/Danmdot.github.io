@@ -1,2 +1,0 @@
-# Danmdot.github.io
-site
